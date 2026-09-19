@@ -1,3 +1,3 @@
-# clone-tabnews
+# fin-news.com.br
 
-Implementação do tabnews.com.br para o https://curso.dev
+Implementação do fin-news.com.br
